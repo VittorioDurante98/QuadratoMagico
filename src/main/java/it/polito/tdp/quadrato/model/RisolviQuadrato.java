@@ -35,7 +35,7 @@ public class RisolviQuadrato {
 			// caso terminale
 			if(controlla(parziale)) {
 				// è magico!!
-				System.out.println(parziale) ;
+				//System.out.println(parziale) ;
 				this.soluzioni.add(new ArrayList<>(parziale)) ;
 			}
 			return ;

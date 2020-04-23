@@ -6,7 +6,7 @@ public class TestQuadrato {
 
 	public static void main(String[] args) {
 
-		RisolviQuadrato r = new RisolviQuadrato(4) ;
+		RisolviQuadrato r = new RisolviQuadrato(3) ;
 		
 		List<List<Integer>> soluzioni = r.quadrati();
 		
